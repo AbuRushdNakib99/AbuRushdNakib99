@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abu Rushd Nakib
 - 👀 I’m interested in Competitive Programming,Web and Mobile App Development
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning MERN Stack and Blockchain Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "aburushdnakib99@gmail.com"
 
